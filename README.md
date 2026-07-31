@@ -2,11 +2,11 @@
 
 here i have collected all server emulators and clients with their scripts (?) for brawl stars v57
 
-credits: FidBon, LkPrtctrd, soufgameyt
+credits: FidBon, LkPrtctrd, soufgameyt, iamrealfeeling
 
  ### Servers ###
 
- https://github.com/athlondevv/BS-V57/archive/refs/heads/main.zip
+ https://github.com/usernamename01/BS-V57/archive/refs/heads/main.zip
 
  ### Clients ###
  
